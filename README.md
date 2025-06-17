@@ -7,7 +7,7 @@ A web-based SMS spam classifier built using Streamlit, scikit-learn, and Natural
 - Streamlit web interface for real-time classification
 - Trained on a real-world SMS Spam dataset
 
-## 🛠️ Technology used
+## 🛠️ Tech Stack
 - Python
 - Scikit-learn
 - NLTK
