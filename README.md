@@ -28,20 +28,9 @@ To use it:
 1. Download the dataset from the link above.
 2. Place `SMSSpamCollection` in the project’s `data/` directory (create one if it doesn't exist).
 
-## Project Structure
 
-email-classification/
-├── data/
-│   ├── train.csv       # Training dataset
-│   ├── test.csv        # Testing dataset
-├── src/
-│   ├── preprocess.py   # Email preprocessing scripts
-│   ├── model.py        # Model training and evaluation scripts
-│   ├── predict.py      # Email classification prediction scripts
-├── notebooks/
-│   ├── EDA.ipynb       # Exploratory Data Analysis notebook
-│   ├── ModelTraining.ipynb  # Model training notebook
-├── requirements.txt    # Required Python libraries
-├── README.md           # Project readme file
+
+
+
 
 
